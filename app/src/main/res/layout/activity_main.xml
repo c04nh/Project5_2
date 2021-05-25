@@ -130,7 +130,9 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:gravity="bottom">
+        android:gravity="bottom"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="15dp">
         <TextView
             android:id="@+id/text_result"
             android:layout_width="match_parent"
